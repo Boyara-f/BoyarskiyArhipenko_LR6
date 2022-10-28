@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "ArkhipenkoBoyarski"
+include ':app'
+include ':p0041basicviews'
+include ':p0051layoutfiles'
+include ':p0061_layouts'
+include ':P0072_LayoutProp'
+include ':p005_viewbyid'
+include ':p0091_onclickbuttons'

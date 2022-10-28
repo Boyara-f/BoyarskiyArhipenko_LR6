@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabLob6</string>
+    <string name="Acc">Ещё нет аккаунта?</string>
+    <string name="Reg">Регистрация</string>
+    <string name="Join">Войти</string>
+    <string name="Login">Логин</string>
+    <string name="Password">Пароль</string>
+    <string name="Password1">Забыли пароль?</string>
+    <string name="Afto">Авторизация</string>
+    <string name="bmc_sales">BMC Sales</string>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarFadeDuration="250"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="247dp"
+        android:layout_height="53dp"
+        android:layout_marginEnd="144dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:text="Email or Phone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName2"
+        android:layout_width="250dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="140dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:text="Password"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.607" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="144dp"
+        android:text="Welcome bare mortal."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.373" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="148dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="20dp"
+        android:text="Keep me signed in"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.72" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="353dp"
+        android:layout_height="61dp"
+        android:layout_marginBottom="76dp"
+        android:text="Open Sesame"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="New to our website"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.344"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="164dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="56dp"
+        android:backgroundTint="#FFFFFF"
+        android:drawableTint="#FFFFFF"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:shadowColor="#FFFFFF"
+        android:text="Reset Password"
+        android:textColor="#5B85F3"
+        android:textSize="12sp"
+        app:iconPadding="0dp"
+        app:iconTint="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.718" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="86dp"
+        android:layout_height="22dp"
+        android:layout_marginEnd="92dp"
+        android:backgroundTint="#FFFFFF"
+        android:drawableTint="#FFFFFF"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:shadowColor="#FFFFFF"
+        android:text="Sign up"
+        android:textColor="#5B85F3"
+        android:textSize="12sp"
+        app:iconPadding="0dp"
+        app:iconTint="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.996"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="180dp"
+        android:layout_height="157dp"
+        android:layout_marginTop="31dp"
+        android:layout_marginEnd="116dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/__2022_10_20__11_37_37" /><![CDATA[
+
+    />
+
+]]>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
