@@ -13,10 +13,13 @@
             <option value="$PROJECT_DIR$/P0072_LayoutProp" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p0041basicviews" />
+            <option value="$PROJECT_DIR$/p0041basicviews/p0111_resvalues" />
+            <option value="$PROJECT_DIR$/p0041basicviews/p0111_resvalues2" />
             <option value="$PROJECT_DIR$/p0051layoutfiles" />
             <option value="$PROJECT_DIR$/p005_viewbyid" />
             <option value="$PROJECT_DIR$/p0061_layouts" />
             <option value="$PROJECT_DIR$/p0091_onclickbuttons" />
+            <option value="$PROJECT_DIR$/p0101_listener" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

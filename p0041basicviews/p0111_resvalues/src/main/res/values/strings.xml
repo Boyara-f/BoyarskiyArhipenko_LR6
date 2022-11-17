@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P0111_ResValues</string>
+    <string name="tvBottomText">Введите текст</string>
+    <string name="btnBottomText">отобразить текст</string>
+</resources>
