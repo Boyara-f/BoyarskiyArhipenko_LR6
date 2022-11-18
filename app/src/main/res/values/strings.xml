@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ArkhipenkoBoyarski</string>
+    <string name="title_sharedpreferences">Module Title</string>
 </resources>

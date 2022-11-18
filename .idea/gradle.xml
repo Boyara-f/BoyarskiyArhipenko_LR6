@@ -11,7 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/P0072_LayoutProp" />
+            <option value="$PROJECT_DIR$/SharedPreferences" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lab9" />
             <option value="$PROJECT_DIR$/p0041basicviews" />
             <option value="$PROJECT_DIR$/p0041basicviews/p0111_resvalues" />
             <option value="$PROJECT_DIR$/p0041basicviews/p0111_resvalues2" />
